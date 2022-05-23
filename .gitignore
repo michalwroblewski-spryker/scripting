@@ -1,0 +1,7 @@
+# IDEs
+/.vscode
+/node_modules
+package-lock.json
+environments-*.csv
+*.sh
+config.js
